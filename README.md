@@ -10,18 +10,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-To log in you can use one of the users that are registered:
-
-Username: eden Password: a123456,
-Username: Ela123 Password: a123456,
-Username: Kim2022 Password: a123456,
-Username: heli123 Password: a123456,
-Username: orna123 Password: a123456,
-
 To register press the "here" button in the login page that will take you to the register page,
 then just write your details to register, notice that the password must include letters and numbers.
 
-In the chat page you can add new contacts (only from the five that are registered), and send images, videos,
-text and audio messages to your contacts. 
  
 
